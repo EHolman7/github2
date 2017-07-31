@@ -1,2 +1,5 @@
 var cat = "fluffy";
-consoloe.log("I'm here");
+console.log("I'm inside main.js", cat);
+console.log("Problem Fixed");
+
+
